@@ -69,6 +69,34 @@
       "descr": "yu",
       "image": "https://m.dom-eda.com/uploads/topics/preview/00/00/03/20/06fa2fc486_500.jpg",
       "id": 15
+    },
+    {
+      "title": "mango",
+      "price": "500",
+      "descr": "rty",
+      "image": "https://thumbs.dreamstime.com/b/mango-ripe-white-background-35283521.jpg",
+      "id": 16
+    },
+    {
+      "title": "papaya",
+      "price": "550",
+      "descr": "uioh",
+      "image": "https://www.alexmo-cosmetics.de/media/image/product/6555/lg/papaya-extrakt-gw.jpg",
+      "id": 17
+    },
+    {
+      "title": "ananas",
+      "price": "400",
+      "descr": "dfgh",
+      "image": "https://hozoboz.com/wp-content/uploads/2014/03/ananas-329x270.jpg",
+      "id": 18
+    },
+    {
+      "title": "persimmon",
+      "price": "320",
+      "descr": "dfghj",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/persimmon-0790ddb.jpg?quality=90&resize=556,505",
+      "id": 19
     }
   ]
 }

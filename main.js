@@ -1,6 +1,8 @@
 let API = "http://localhost:8000/products";
 console.log("Han from Tokyo Drift");
 
+console.log("hello world");
+
 // ?переменные для инпутов: добавление товаров
 let title = document.querySelector("#title");
 let price = document.querySelector("#price");
